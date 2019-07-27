@@ -1,0 +1,14 @@
+d:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\bin\Debug\netcoreapp2.2\wepapi-for-shipment.deps.json
+d:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\bin\Debug\netcoreapp2.2\wepapi-for-shipment.runtimeconfig.json
+d:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\bin\Debug\netcoreapp2.2\wepapi-for-shipment.runtimeconfig.dev.json
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\bin\Debug\netcoreapp2.2\wepapi-for-shipment.dll
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\bin\Debug\netcoreapp2.2\wepapi-for-shipment.pdb
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.csprojAssemblyReference.cache
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.csproj.CoreCompileInputs.cache
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.RazorAssemblyInfo.cache
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.RazorAssemblyInfo.cs
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.AssemblyInfoInputs.cache
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.AssemblyInfo.cs
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.RazorTargetAssemblyInfo.cache
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.dll
+D:\devthings\.netcore\dotnetcore-docker-try\wepapi-for-shipment\obj\Debug\netcoreapp2.2\wepapi-for-shipment.pdb
